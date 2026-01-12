@@ -1,7 +1,12 @@
 # 🌐 AwebSystem
 
 Bem-vindo ao repositório oficial da **AwebSystem** 🚀  
-Criamos **sistemas inteligentes** e **websites modernos** para potencializar negócios através da tecnologia.
+Transformamos ideias em **sistemas inteligentes** e **websites modernos**, ajudando negócios a crescerem através da tecnologia.
+
+---
+
+## 🏢 Sobre nós
+A **AwebSystem** nasceu com o propósito de unir **inovação, design e performance** para entregar soluções digitais que simplificam processos e potencializam resultados.
 
 ---
 
@@ -11,41 +16,16 @@ Criamos **sistemas inteligentes** e **websites modernos** para potencializar neg
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,nodejs,wordpress" />
 </p>
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <!-- Commits totais -->
-  <img src="https://img.shields.io/github/commit-activity/m/AwebSystemGM/AwebSystemGM?style=for-the-badge&color=blue" />
-
-  <!-- Repositórios públicos -->
-  <img src="https://img.shields.io/badge/Repositórios-5-green?style=for-the-badge" />
-
-  <!-- Projetos ativos -->
-  <img src="https://img.shields.io/badge/Projetos-Em andamento-orange?style=for-the-badge" />
-</p>
+- **HTML & CSS** → Estrutura e estilo de páginas web  
+- **TailwindCSS** → Estilização rápida e responsiva  
+- **JavaScript** → Interatividade e dinamismo  
+- **Node.js** → Back-end escalável e eficiente  
+- **WordPress** → Sites e blogs com gestão simplificada  
 
 ---
 
-## 📂 Projetos
-
-- **Landing Pages** → Sites rápidos e otimizados para conversão  
-- **Sistemas de Gestão** → Ferramentas para empresas organizarem seus processos  
-- **E-commerce** → Lojas virtuais completas e seguras  
-- **Portfólios e Blogs** → Espaços digitais criativos e personalizados  
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwebSystemGM&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwebSystemGM&layout=compact&theme=radical" />
-</p>
+## 🌱 Primeiro Projeto Pro Bono
+Nosso compromisso com a comunidade começa com projetos **pro bono**, apoiando iniciativas que merecem visibilidade digital sem custo inicial.
 
 ---
 
@@ -55,4 +35,5 @@ Criamos **sistemas inteligentes** e **websites modernos** para potencializar neg
 - 💻 GitHub: [AwebSystemGM](https://github.com/AwebSystemGM)  
 
 ---
+
 ✨ *Nosso objetivo é simplificar processos e potencializar negócios através da tecnologia.*
